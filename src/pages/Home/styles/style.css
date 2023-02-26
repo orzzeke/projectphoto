@@ -1,0 +1,32 @@
+.box {
+  width: 100%;
+  padding: 20px;
+  border: 1px solid #000;
+  box-sizing: border-box;
+}
+.box .List {
+  padding-top: 1rem;
+}
+
+.btn {
+  margin-top: 20px;
+  background-color: #000;
+  color: #fff;
+  border: 0;
+  box-sizing: border-box;
+  width: 100%;
+  padding: 10px;
+}
+
+.item {
+  border-bottom: 1px solid black;
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+}
+
+.del {
+  background-color: red;
+  border: 0;
+  padding: 0.5rem;
+}/*# sourceMappingURL=style.css.map */
